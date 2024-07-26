@@ -1,10 +1,10 @@
 import { Outlet } from 'react-router-dom'
-import Nav from './components'
+import Header from './components/Header'
 
 function App() {
     return (
         <>
-            <Nav/>
+            <Header />
             <Outlet />
         </>
     )

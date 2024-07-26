@@ -4,10 +4,10 @@ import profilePhoto from "../../assets/profile-photo.jpg";
 function AboutMe() {
   return (
     <>
-        <section className="container flex flex-col items-center">
-        <img src={profilePhoto} alt="profile-photo" className="w-[30px] h-[30px]"/>
+        <section className="container flex items-center">
+        <img src={profilePhoto} alt="profile-photo" className="w-[300px] h-[300px] rounded-full m-[50px]"/>
         <div>
-            <h2 className="text-3xl font-bold mb-4">About Me</h2>
+            <h2 className="text-4xl font-bold m-4">About Me</h2>
             <p>Hi I am a full stack web developer!!!</p>
         </div>
         </section>
