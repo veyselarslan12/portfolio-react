@@ -1,0 +1,56 @@
+[
+    {
+        "projectName": "Travel Planner",
+        "imageSource": "./images/travel-planner.png",
+        "githubUrl": "https://github.com/veyselarslan12/travel-planning-project?tab=readme-ov-file",
+        "depUrl": ""
+    },
+    {
+        "projectName": "Cryptid Spot",
+        "imageSource": "./images/cryptid-spot.png",
+        "githubUrl": "https://github.com/veyselarslan12/cryptid-spot",
+        "depUrl": ""
+    },
+    {
+        "projectName": "Interview Questions Generator",
+        "imageSource": "./images/interview-generator.png",
+        "githubUrl": "https://github.com/veyselarslan12/interview-question-generator",
+        "depUrl": ""
+    },
+    {
+        "projectName": "Product Name Generator",
+        "imageSource": "./images/product-name-generator.png",
+        "githubUrl": "https://github.com/veyselarslan12/product-name-generator",
+        "depUrl": ""
+    },
+    {
+        "projectName": "Grammar Correction AI",
+        "imageSource": "./images/grammar-correction.png",
+        "githubUrl": "https://github.com/veyselarslan12/grammar-correction-ai",
+        "depUrl": ""
+    },
+    {
+        "projectName": "ChatGpt Translator",
+        "imageSource": "./images/chatgpt-translator.png",
+        "githubUrl": "https://github.com/veyselarslan12/chatgpt-translator",
+        "depUrl": ""
+    },
+    {
+        "projectName": "Employee Payroll Tracker",
+        "imageSource": "./images/employee-tracker.png",
+        "githubUrl": "https://github.com/veyselarslan12/employee-tracker-postgres",
+        "depUrl": ""
+    },
+    {
+        "projectName": "Task Board App",
+        "imageSource": "./images/task-board.png",
+        "githubUrl": "https://github.com/veyselarslan12/task-board",
+        "depUrl": "https://veyselarslan12.github.io/task-board/"
+    },
+    {
+        "projectName": "Weather Forecast App",
+        "imageSource": "./images/weather-forecast.png",
+        "githubUrl": "https://github.com/veyselarslan12/weather-forecast",
+        "depUrl": "https://veyselarslan12.github.io/weather-forecast/"
+    }
+]
