@@ -37,7 +37,7 @@ function Form() {
             ></textarea>
           </div>
           <div className="form-control">
-            <button type="submit" className="btn btn-primary">
+            <button type="submit" className="btn btn-primary transition-transform transform hover:scale-105 hover:shadow-2xl">
               Submit
             </button>
           </div>

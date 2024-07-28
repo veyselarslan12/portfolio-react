@@ -1,54 +1,63 @@
 [
     {
         "projectName": "Travel Planner",
+        "description": "An all-in-one travel app that helps users plan trips by finding attractions, malls, pharmacies, restaurants, airports, and more. Users can also save multiple trips for future reference.",
         "imageSrc": "./src/assets/travel-planner.png",
         "githubUrl": "https://github.com/veyselarslan12/travel-planning-project?tab=readme-ov-file",
         "depUrl": ""
     },
     {
         "projectName": "Cryptid Spot",
+        "description": "An interactive map application where users can mark and share sightings of cryptids and other mythical creatures.",
         "imageSrc": "./src/assets/cryptid-spot.png",
         "githubUrl": "https://github.com/veyselarslan12/cryptid-spot",
         "depUrl": ""
     },
     {
         "projectName": "Interview Questions Generator",
+        "description": "An OpenAI-powered tool that generates custom interview questions based on the job role and skills required.",
         "imageSrc": "./src/assets/interview-generator.png",
         "githubUrl": "https://github.com/veyselarslan12/interview-question-generator",
         "depUrl": ""
     },
     {
         "projectName": "Product Name Generator",
+        "description": "A creative AI application that generates catchy and unique product names for entrepreneurs and businesses.",
         "imageSrc": "./src/assets/product-name-generator.png",
         "githubUrl": "https://github.com/veyselarslan12/product-name-generator",
         "depUrl": ""
     },
     {
         "projectName": "Grammar Correction AI",
+        "description": "An AI-based application that helps users improve their writing by suggesting corrections for grammar and spelling mistakes.",
         "imageSrc": "./src/assets/grammar-correction.png",
         "githubUrl": "https://github.com/veyselarslan12/grammar-correction-ai",
         "depUrl": ""
     },
     {
         "projectName": "ChatGpt Translator",
+        "description": "A language translation tool powered by ChatGPT, enabling users to translate text between multiple languages seamlessly.",
         "imageSrc": "./src/assets/chatgpt-translator.png",
         "githubUrl": "https://github.com/veyselarslan12/chatgpt-translator",
         "depUrl": ""
     },
     {
         "projectName": "Employee Payroll Tracker",
+        "description": "A payroll management system designed to help businesses track employee salaries, bonuses, and deductions efficiently.",
         "imageSrc": "./src/assets/employee-tracker.png",
         "githubUrl": "https://github.com/veyselarslan12/employee-tracker-postgres",
         "depUrl": ""
     },
     {
         "projectName": "Task Board App",
+        "description": "A task management application that allows users to create, track, and organize their tasks and projects visually.",
         "imageSrc": "./src/assets/task-board.png",
         "githubUrl": "https://github.com/veyselarslan12/task-board",
         "depUrl": "https://veyselarslan12.github.io/task-board/"
     },
     {
         "projectName": "Weather Forecast App",
+        "description": "A weather forecasting tool that provides users with real-time weather updates and forecasts for their selected locations.",
         "imageSrc": "./src/assets/weather-forecast.png",
         "githubUrl": "https://github.com/veyselarslan12/weather-forecast",
         "depUrl": "https://veyselarslan12.github.io/weather-forecast/"

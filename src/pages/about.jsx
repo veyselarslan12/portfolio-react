@@ -14,14 +14,12 @@ function AboutMe() {
           <h2 className="text-4xl font-bold m-4 text-center">About Me</h2>
           <p className="font-serif text-xl mx-[90px] tracking-wide">
             Hello! I’m Veysel Arslan, a 26-year-old full-stack web developer
-            currently residing in Chicago, USA. Originally from Turkey.
+            currently living in Chicago, USA. I born and raised in Turkey 🇹🇷 ❤️.
             <br />
             <br />
-            <p>
-              I embarked on a journey from a Civil Engineering background to the
-              dynamic world of web development. My love for coding has driven me
-              to explore and create within this exciting field.
-            </p>
+            I embarked on a journey from a Civil Engineering background to the
+            dynamic world of web development. My love for coding has driven me
+            to explore and create within this exciting field.
             <br />
             I specialize in building innovative solutions and have a particular
             passion for artificial intelligence. Over the years, I've developed
@@ -31,7 +29,7 @@ function AboutMe() {
             source code on my GitHub.
             <br />
             <br />
-            <p>Thank you for visiting!</p>
+            Thank you for visiting!
           </p>
         </div>
       </section>
