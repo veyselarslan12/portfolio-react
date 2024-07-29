@@ -5,7 +5,7 @@ function Projects() {
   return (
     <div className="flex flex-wrap justify-center gap-8 p-6">
       {projects.map((project, index) => (
-        <div key={index} className="card bg-base-300 w-96 shadow-xl transition-transform transform hover:scale-105 hover:shadow-2xl">
+        <div key={index} className="card bg-[#698474] w-96 shadow-xl transition-transform transform hover:scale-105 hover:shadow-2xl">
           <figure className="px-10 pt-10">
             <img
               src={project.imageSrc}

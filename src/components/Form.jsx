@@ -2,7 +2,7 @@ function Form() {
   return (
     <>
       <div className="justify-center">
-        <form className="max-w-[50%] bg-base-100 p-6 rounded-lg shadow-md">
+        <form className="max-w-[50%] bg-[#FFD3B6] p-6 rounded-lg shadow-md">
           <div className="form-control mb-4">
             <label className="label" htmlFor="name">
               <span className="label-text">Name</span>
@@ -37,7 +37,7 @@ function Form() {
             ></textarea>
           </div>
           <div className="form-control">
-            <button type="submit" className="btn btn-primary transition-transform transform hover:scale-105 hover:shadow-2xl">
+            <button type="submit" className="btn btn-error btn-outline transition-transform transform hover:scale-105 hover:shadow-2xl">
               Submit
             </button>
           </div>

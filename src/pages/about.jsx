@@ -4,11 +4,11 @@ import profilePhoto from "../assets/profile-photo.jpg";
 function AboutMe() {
   return (
     <>
-      <section className="container flex items-center">
+      <section className="container flex items-center mb-[180px]">
         <img
           src={profilePhoto}
           alt="profile-photo"
-          className="w-[300px] h-[300px] rounded-full m-[50px]"
+          className="w-[300px] h-[300px] rounded-full m-[50px] transition-transform transform hover:scale-105 hover:shadow-2xl"
         />
         <div>
           <h2 className="text-4xl font-bold m-4 text-center">About Me</h2>
