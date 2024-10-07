@@ -1,13 +1,28 @@
-import { Outlet } from 'react-router-dom'
-import Header from './components/Header'
+// src/App.jsx
+import React from 'react';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import AboutMe from './components/AboutMe';
+import Technologies from './components/Technologies';
+import Portfolio from './components/Portfolio';
+import ContactMe from './components/ContactMe'; // Import the ContactMe component
 
 function App() {
-    return (
-        <>
-            <Header />
-            <Outlet />
-        </>
-    )
+  return (
+    <div className="App">
+      {/* Navbar Component */}
+      <Navbar />
+
+      {/* Main Sections */}
+      <Hero />       {/* Hero Section */}
+      <AboutMe />    {/* About Me Section */}
+      <Technologies /> {/* Technologies Section */}
+      <Portfolio />  {/* Portfolio Section */}
+      
+      {/* Contact Me Section */}
+      <ContactMe /> {/* Includes the Contact Me form */}
+    </div>
+  );
 }
 
-export default App
+export default App;
