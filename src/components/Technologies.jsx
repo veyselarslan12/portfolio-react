@@ -1,6 +1,5 @@
-// src/components/Technologies.jsx
 import React from 'react';
-import { motion } from 'framer-motion'; // Import Framer Motion
+import { motion } from 'framer-motion';
 import { FaHtml5, FaCss3Alt, FaJs, FaNodeJs, FaReact, FaGithub, FaGitAlt, FaBootstrap, FaFigma, FaDatabase } from 'react-icons/fa';
 import { SiMongodb, SiGraphql, SiExpress, SiAntdesign, SiNetlify, SiRender, SiPostgresql, SiOpenai, SiRedux } from 'react-icons/si';
 import { AiOutlineApi } from 'react-icons/ai';
@@ -37,9 +36,9 @@ const Technologies = () => {
           <motion.div
             key={index}
             className="flex flex-col items-center p-4 bg-gray-700 rounded-lg shadow-lg"
-            whileHover={{ scale: 1.05, rotate: 1.5 }} // Animation on hover
-            whileTap={{ scale: 0.95 }} // Animation on tap (click)
-            transition={{ type: 'spring', stiffness: 100, damping: 10 }} // Smooth transition
+            whileHover={{ scale: 1.05, rotate: 1.5 }} 
+            whileTap={{ scale: 0.95 }} 
+            transition={{ type: 'spring', stiffness: 100, damping: 10 }} 
           >
             {tech.icon}
             <p className="mt-4 text-lg font-medium">{tech.name}</p>

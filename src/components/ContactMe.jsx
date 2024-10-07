@@ -1,10 +1,8 @@
-// src/components/ContactMe.jsx
 import React from 'react';
 import { useForm, ValidationError } from '@formspree/react';
-import { FaArrowUp } from 'react-icons/fa'; // Import arrow up icon
-
+import { FaArrowUp } from 'react-icons/fa'; 
 const ContactMe = () => {
-  const [state, handleSubmit] = useForm("mvgpyjev"); // Replace with your Formspree ID
+  const [state, handleSubmit] = useForm("mvgpyjev"); 
 
   if (state.succeeded) {
     return <p className="text-center text-lg text-green-500 mt-8">Thanks for reaching out! I'll get back to you soon.</p>;
@@ -52,13 +50,12 @@ const ContactMe = () => {
         </button>
       </form>
 
-      {/* Go Up Button */}
       <div className="mt-12">
         <button
-          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} // Scroll to top smoothly
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
           className="flex items-center justify-center mx-auto py-2 px-4 bg-blue-500 hover:bg-blue-400 rounded-lg text-lg font-bold transition duration-300"
         >
-          <FaArrowUp className="mr-2" size={20} /> {/* Icon for Go Up */}
+          <FaArrowUp className="mr-2" size={20} /> 
           Go Up
         </button>
       </div>

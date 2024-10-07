@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
 import Technologies from './components/Technologies';
 import Portfolio from './components/Portfolio';
-import ContactMe from './components/ContactMe'; // Import the ContactMe component
+import ContactMe from './components/ContactMe'; 
 
 function App() {
   return (
