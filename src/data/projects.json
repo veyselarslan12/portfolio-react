@@ -1,5 +1,12 @@
 [
     {
+        "projectName": "CookBot",
+        "description": "The CookBot project is an AI-powered recipe app that lets users input ingredients and discover creative recipes tailored to what they have. With intuitive filters like meal type, diet, and cuisine preferences, CookBot delivers personalized recipe suggestions and direct links to detailed cooking instructions.",
+        "imageSrc": "/images/cookbot.png",
+        "githubUrl": "https://github.com/veyselarslan12/cookbotai",
+        "depUrl": ""
+    },
+    {
         "projectName": "Travel Planner",
         "description": "An all-in-one travel app that helps users plan trips by finding attractions, malls, pharmacies, restaurants, airports, and more. Users can also save multiple trips for future reference.",
         "imageSrc": "/images/travel-planner.png",
